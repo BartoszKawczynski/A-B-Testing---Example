@@ -13,7 +13,7 @@ Project of statistical hypotheses test and evaluate the statistical significance
 
 Used libraries: Pandas, Matplotlib, Seaborn, SciPy, Stats, NumPy.
 
-Function example: stats.ttest_ind(), shape[], sum(), pd.to_datetime(), min().date(), max().date().
+Function examples: stats.ttest_ind(), shape[], sum(), pd.to_datetime(), min().date(), max().date().
 
 Tasks (step by step):
 
