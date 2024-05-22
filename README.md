@@ -10,9 +10,13 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 Project of statistical hypotheses test and evaluate the statistical significance of results, create visualizations for A/B tests, summarize and present test results.
+
 Used libraries: Pandas, Matplotlib, Seaborn, SciPy, Stats, NumPy.
+
 Function example: stats.ttest_ind(), shape[], sum(), pd.to_datetime(), min().date(), max().date().
+
 Tasks (step by step):
+
 Read data from a file and display information about A/B test results:
 
      number of users in groups A and B,
@@ -21,6 +25,7 @@ Read data from a file and display information about A/B test results:
      test start and end date, as well as test duration in days.
 
 Select a statistical criterion for hypothesis testing and calculate the statistic and p-value. See if we can reject the null hypothesis.
+
 Create a visualization to compare mean values for groups with 95% confidence intervals.
 
 
