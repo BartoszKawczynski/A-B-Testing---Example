@@ -70,6 +70,6 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [linkedin-url]: https://www.linkedin.com/in/bartosz-kawczy%C5%84ski-667770252/
 <!-- [product-screenshot]: images/screenshot.png -->
 [JupyterLab]: https://jupyter.org/
-[Project Link]: https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/tree/main
+[Project Link]: https://github.com/BartoszKawczynski/A-B-Testing---Example/
 [GoIT Polska!]: https://goit.global/pl/
 [Python]: https://www.python.org/
