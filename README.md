@@ -30,7 +30,7 @@ Create a visualization to compare mean values for groups with 95% confidence int
 
 [![Python-img](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/assets/162443808/c9a416f8-82e5-46ba-90c5-feef3cddd6ba)][Python]
 
-Plot Example:
+Plot Examples:
 
 ![Plot1-img](https://github.com/BartoszKawczynski/A-B-Testing---Example/assets/162443808/f01ecd2b-d0af-4b0f-8bc7-c7dcf6145d26)
 
